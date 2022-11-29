@@ -9,5 +9,10 @@ Pueden hacer lo que quieran...
 ## Actualizaciones  
 Cambios hechos desde github
 
+<<<<<<< HEAD
 ## Otros cambios son de github
 Cambios everywhere
+=======
+## Otros cambios son locales
+Cambios everywhere
+>>>>>>> 291b6af (README.md: Cambios locales)
