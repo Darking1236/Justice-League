@@ -9,5 +9,5 @@ Pueden hacer lo que quieran...
 ## Actualizaciones  
 Cambios hechos desde github
 
-## Otros cambios
+## Otros cambios son de github
 Cambios everywhere
